@@ -10,7 +10,7 @@ const Header = () => {
     return(
         <>
             <Link to="/" className='rouLink'>
-                <Head>To do's and notes</Head>
+                <Head>To do's and notes....</Head>
             </Link>
         </>
     )
